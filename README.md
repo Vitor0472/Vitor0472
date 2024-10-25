@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://media4.giphy.com/media/CGXnGb7zpsvXD2uwvd/giphy.webp?cid=82a1493b78urylzpf25xf93xxzs8ibdgnj2cag2e4hp2n87w&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
+
 <!--
 **Vitor0472/Vitor0472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
